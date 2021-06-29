@@ -1,1 +1,4 @@
-"# play-typescript" 
+"# play-typescript"
+
+## Run
+`npm start`
